@@ -1,0 +1,26 @@
+fastapi
+uvicorn[standard]
+gunicorn
+python-dotenv
+
+# LangChain ecosystem
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+
+# Embeddings + models
+sentence-transformers
+
+# Vector DB
+faiss-cpu
+
+# PDF parsing
+pypdf
+
+# File uploads
+python-multipart
+
+# Utils
+tqdm
+

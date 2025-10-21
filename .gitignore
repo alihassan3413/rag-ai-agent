@@ -1,0 +1,7 @@
+# Ignore uploaded PDFs
+data/pdfs/
+
+# Ignore FAISS index
+data/faiss_index/
+
+.env
